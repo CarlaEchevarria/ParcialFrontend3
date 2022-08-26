@@ -18,4 +18,4 @@ ___
 
 Aquí se puede ver una demo del funcionamiento de la aplicación.
 
-![img-examen.gif](https://raw.githubusercontent.com/Frontend-III/entregable-frontend-3-junio22/main/demoReactFE3.gif)
+![img-examen.gif](https://github.com/CarlaEchevarria/ParcialFrontend3/blob/main/img-examen.gif?raw=true)
