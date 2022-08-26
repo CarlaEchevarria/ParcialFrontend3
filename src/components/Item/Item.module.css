@@ -1,0 +1,32 @@
+.producto {
+    border: 0.5px solid #ddd;
+    padding: 20px;
+    width: 33%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.img{
+    margin: 0 auto;
+    width: 70%;
+}
+
+.h5{
+    text-align: center;
+}
+
+.h5 span{
+    background-color: rgb(255, 178, 178);
+    padding: 3px;
+    font-weight: lighter;
+    color: rgb(155, 0, 0);
+    border-radius: 3px;
+}
+
+.button{
+    padding: 5px;
+    text-transform: uppercase;
+}
